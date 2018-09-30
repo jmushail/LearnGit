@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     @IBAction func buttonClicked(_ sender: UIButton)
     {
         print("Finsihed")
+        print("send to remote Git")
     }
 
     override func didReceiveMemoryWarning() {
